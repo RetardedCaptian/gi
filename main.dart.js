@@ -85754,7 +85754,7 @@ A.ajS.prototype={
 $0(){var s=0,r=A.T(t.H)
 var $async$$0=A.U(function(a,b){if(a===1)return A.Q(b,r)
 while(true)switch(s){case 0:s=2
-return A.Z(A.amT(A.hO("https://wa.me/9400233047",0,null)),$async$$0)
+return A.Z(A.amT(A.hO("https://wa.me/9446655395",0,null)),$async$$0)
 case 2:return A.R(null,r)}})
 return A.S($async$$0,r)},
 $S:20}
@@ -86072,7 +86072,7 @@ A.ai6.prototype={
 $0(){var s=0,r=A.T(t.H)
 var $async$$0=A.U(function(a,b){if(a===1)return A.Q(b,r)
 while(true)switch(s){case 0:s=2
-return A.Z(A.amT(A.hO("https://wa.me/9400233047",0,null)),$async$$0)
+return A.Z(A.amT(A.hO("https://wa.me/9446655395",0,null)),$async$$0)
 case 2:return A.R(null,r)}})
 return A.S($async$$0,r)},
 $S:20}
