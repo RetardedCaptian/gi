@@ -1,11 +1,11 @@
 {
-    "name": "g_i",
-    "short_name": "g_i",
+    "name": "Global International",
+    "short_name": "Global International",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Explore global career prospects with Global International, the leading abroad job consulting firm. We provide personalized guidance and support to help you secure rewarding jobs and thrive in international markets. Start your journey with us today!",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
